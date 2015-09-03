@@ -1,3 +1,12 @@
+# vim generated files
 *~
 *.swp
 *.swo
+
+
+# Latex generated files
+*.aux
+*.bib
+*.log
+*.fls
+*_latexmk
